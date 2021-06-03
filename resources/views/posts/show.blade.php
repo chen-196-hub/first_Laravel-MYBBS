@@ -7,6 +7,7 @@
   </div>
   <h1> {{ $post->title }} </h1>
   <div>
-    {{ $post->body }}
+    {!! nl2br($post->body) !!}
   </div>
 </x-layout>
+

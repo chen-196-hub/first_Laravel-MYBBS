@@ -14,3 +14,30 @@ li {
 .back-link {
   font-size: 14px;
 }
+
+
+input,
+textarea {
+  padding: 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 6px 9px;
+  font-size: 14px;
+}
+
+.form-group{
+  margin-bottom: 16px;
+}
+
+.form-button{
+  text-align: right;
+}
+
+.error{
+  color: red;
+  font-size: 14px;
+  margin-top: 8px;
+}
