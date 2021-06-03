@@ -1,0 +1,15 @@
+h1 {
+  color: yellowgreen;
+}
+li {
+  line-height: 1.6;
+}
+
+.container {
+  width: 480px;
+  margin: 40px auto;
+}
+
+.back-link {
+  font-size: 14px;
+}
